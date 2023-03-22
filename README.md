@@ -58,8 +58,9 @@
 ## :rocket: Live Demo <a name="live-demo"></a>
 - [Live Demo Link](https://isume295.github.io/Hello_Microverse/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
-## :computer: Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
